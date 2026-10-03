@@ -366,7 +366,7 @@ class CS2PY_GUI:
 	def init_context(self):
 		dpg.create_context()
 		self.viewport = dpg.create_viewport(
-			title="algot.fun cs2 cheat",
+			title="cs2py",
 			width=self.viewport_width,
 			height=self.viewport_height,
 			vsync=True,
