@@ -2,8 +2,6 @@
 External CS2 Cheat written in Python3 
 > Check if the current offsets are correct: [a2x offset checker](https://algot.fun/offsetsync)
 
-<iframe width="560" height="415" src="https://algot.fun/offsetsync" frameborder="0"></iframe>
-
 
 ## Installation
 
