@@ -1,10 +1,18 @@
 
 External CS2 Cheat written in Python3 
-> you can find offsets by using this [offset dumper](https://github.com/a2x/cs2-dumper)
+> Check if the current offsets are correct: [a2x offset checker](https://algot.fun/offsetsync)
+
+<iframe width="560" height="415" src="https://algot.fun/offsetsync" frameborder="0"></iframe>
+
 
 ## Installation
 
-Just run main.exe if you dont know what you are doing
+Just run main.exe if you dont know what you are doing:
+
+[Download main.exe](https://github.com/globban/Cs2_cheat/releases/download/New/main.exe)
+
+
+If you are going to download source and run the python yourself (Which is the safer alternative) do this instead:
 
 ```
 pip install -r requirements.txt
@@ -39,7 +47,7 @@ python main.py
 
 ## Credits
 
-> **Big Thanks Algot for everything**
+> **Myself**
 
 
 # Use at your own risk ⚠️
